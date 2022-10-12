@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arjun-kushwaha
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning Python Tkinter
-- 💞️ I’m looking to collaborate on python Tkinter project
+- 👀 I’m interested in codeigniter development
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on codeigniter project
 - 📫 How to reach me arjun.pche@gmail.com
 
 <!---
